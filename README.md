@@ -1,2 +1,2 @@
-# -2023-CPP-study
+# 2023-CPP-study
 2023-02 CODEIT CPP study
